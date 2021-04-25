@@ -1,0 +1,19 @@
+@charset "UTF-8";
+body {
+    background-color: #fffeee;
+    
+}
+h1 {
+    color: #0bd;
+    font-family: "游ゴシック体", "Yu Gothic", Yu Gothic, sans-serif;
+}
+p {
+    font-size: 20px;
+    font-family: "游ゴシック体", "Yu Gothic", Yu Gothic, sans-serif;
+}
+li {
+    font-family: "游ゴシック体", "Yu Gothic", Yu Gothic, sans-serif;
+}
+a {
+    font-family: "游ゴシック体", "Yu Gothic", Yu Gothic, sans-serif;
+}
